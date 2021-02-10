@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Check out my projects below!
+
 <!--
 **kcheng0222/kcheng0222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
